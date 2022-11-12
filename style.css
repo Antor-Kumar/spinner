@@ -1,0 +1,20 @@
+#main{
+    width: 263px;
+    margin: auto;
+    margin-top: 292px;
+    display:none;
+    
+ }
+ #loading{
+  position:absolute;
+ }
+ #loadingDot{
+    position: relative;
+    right: -113px;
+    top: -72px;
+ }
+ #loadingDot #dot{
+       color: red;
+       font-size: 50px;     
+ }
+ 
